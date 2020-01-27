@@ -409,7 +409,7 @@ Use your browser(CTL-F) to search by country code.
 - [Google Input Tools](https://www.google.com/inputtools/try)
 - [Google Translate](https://translate.google.com/)
 - [IdiomaX Translation](http://www.idiomax.com/online-translator.aspx)
-- [India Typing](http://indiatyping.com/index.php/translations/english-to-hindi-translation)
+- [Anop Typing](http://www.anophinditypingtutor.com/p/unicodemangal-font-devlyskurti-dev-font.html)
 - [imTranslator](http://imtranslator.net/translation)
 - [iTranslate](http://www.itranslateapp.com/)
 - [iTranslate Voice](http://itranslatevoice.com/)
