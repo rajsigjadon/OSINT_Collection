@@ -430,6 +430,7 @@ Use your browser(CTL-F) to search by country code.
 - [WorldReference.com](http://www.wordreference.com/)
 - [Yamli (Arabic Search Engine)](http://www.yamli.com/)
 - [Yandex Translate](https://translate.yandex.ru/)
+- [Anop Unicode](http://www.anophinditypingtutor.com/p/unicodemangal-font-devlyskurti-dev-font.html)
 
 #### Keywords Research
 - [Google Keyword Suggest Tool](http://tools.seochat.com/tools/suggest-tool)
